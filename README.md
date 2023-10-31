@@ -4,10 +4,11 @@ Sample: Built a Nuxt3 + Storybook@v7.x environment.
 
 ## Environment
 
-|           |                                  |
-| :-------: | :------------------------------: |
-| Framework | [![Nuxt][nuxt-logo]][nuxt-href]  |
-|   Story   | [![Storybook][sb-logo]][sb-href] |
+|           |                                       |
+| :-------: | :-----------------------------------: |
+| Framework |    [![Nuxt][nuxt-logo]][nuxt-href]    |
+|   Story   |   [![Storybook][sb-logo]][sb-href]    |
+|  Linter   | [![ESLint][eslint-logo]][eslint-href] |
 
 ### Nuxt Modules
 
@@ -31,6 +32,8 @@ pnpm i
 [nuxt-href]: https://nuxt.com
 [sb-logo]: https://img.shields.io/badge/Storybook-v7.5.0-FF4785?style=plastic&logo=storybook
 [sb-href]: https://storybook.js.org/
+[eslint-logo]: https://img.shields.io/badge/ESLint-v8.52.0-4B32C3?style=plastic&logo=eslint
+[eslint-href]: https://eslint.org/
 
 <!--
   Badges for Nuxt Module
